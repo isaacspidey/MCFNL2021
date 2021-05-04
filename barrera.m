@@ -1,5 +1,5 @@
 function [f]=barrera(divisiones,ini,final)
-    %Programa para generar una gaussiana
+    %Programa para generar una barrera
     %constantes
     f=zeros(1,divisiones);
     %Genero la gaussiana
